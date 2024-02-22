@@ -36,4 +36,4 @@ The project employs machine learning models, including Logistic Regression, Rand
 ## Conclusion
 The analysis reveals key insights into factors influencing employee retention, allowing for targeted recommendations. Recommendations include addressing workload concerns, improving job satisfaction, and investigating salary disparities. Future steps may involve continuous monitoring, refining models, and implementing targeted interventions based on evolving workforce dynamics.
 
-Feel free to explore the Jupyter Notebook (Employee_Retention_Analysis.ipynb) for a detailed walkthrough of the analysis, visualizations, and model implementations.
+Feel free to explore the [Jupyter Notebook](https://github.com/ranayalcink/salifort-motors-employee-retention/blob/main/Capstone.ipynb) for a detailed walkthrough of the analysis, visualizations, and model implementations.
